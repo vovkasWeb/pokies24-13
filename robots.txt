@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /go
 
-Sitemap: https://pokies24.io/sitemap.xml
+Sitemap: https:/caswino.info/sitemap.xml
